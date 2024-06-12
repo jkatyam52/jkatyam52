@@ -1,7 +1,5 @@
 ## Hola, me llamo Joseph👋
 
-![Gif de Programación](https://i.gifer.com/ATEd.gif)
-
 ## Sobre mí
 Soy un Desarrollador de software con experiencia en resolución de problemas lógicos, gestión de bases de datos y desarrollo de aplicaciones web y de escritorio. Busco integrarme en una empresa innovadora para aplicar mis conocimientos y habilidades como programador, contribuyendo al éxito del equipo y a mi crecimiento profesional. Comprometido con el aprendizaje continuo, estoy motivado para colaborar en proyectos desafiantes y aportar al logro de los objetivos de la organización.
 
@@ -21,6 +19,7 @@ Lenguajes de Programacion
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JSON](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=red)
 
@@ -30,10 +29,12 @@ Base de datos
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![Interbase](https://img.shields.io/badge/interbase-E62431?style=for-the-badge&logo=Interbase&logoColor=white)
 
-## Herramientas
+Herramientas
+<br>
 ![VisualEstudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![VisualEstudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Dbeaver](https://img.shields.io/badge/dbeaver-382923.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
