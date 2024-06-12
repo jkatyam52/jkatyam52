@@ -1,4 +1,6 @@
-## Hola, me llamo Joseph Miranda 👋
+## Hola, me llamo Joseph👋
+
+![Gif de Programación](https://i.gifer.com/ATEd.gif)
 
 ## Sobre mí
 Soy un Desarrollador de software con experiencia en resolución de problemas lógicos, gestión de bases de datos y desarrollo de aplicaciones web y de escritorio. Busco integrarme en una empresa innovadora para aplicar mis conocimientos y habilidades como programador, contribuyendo al éxito del equipo y a mi crecimiento profesional. Comprometido con el aprendizaje continuo, estoy motivado para colaborar en proyectos desafiantes y aportar al logro de los objetivos de la organización.
