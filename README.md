@@ -42,13 +42,13 @@ Herramientas
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/joseph-miranda-8/)
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://es.duolingo.com/profile/Jkatyam52)
 
-<!--## Hobbies
+## Hobbies
 🎮 Video Juegos
 <br>
 📺 Series
 <br>
 🎬 Peliculas
-<br>-->
+<br>
 
 ## Análisis
 ![Analisis1](https://github-readme-stats.vercel.app/api?username=jkatyam52&theme=blue-green)
