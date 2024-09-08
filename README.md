@@ -1,6 +1,5 @@
 ## ¡Hola!, me llamo Joseph Miranda👋
 
-## Sobre mí
 💻✨ Soy un apasionado desarrollador de software que adora resolver problemas y encontrar soluciones creativas. Me encanta sumergirme en proyectos desafiantes, ya sea en aplicaciones web o de escritorio, siempre con ganas de aprender algo nuevo cada día 🚀.
 
 Me motiva trabajar en equipo para construir cosas increíbles y superarnos juntos. 🌟 Además, ¡nunca dejo de aprender! Estoy en constante búsqueda de mejorar mis habilidades y aportar lo mejor de mí en cada línea de código. 🔥
