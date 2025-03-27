@@ -1,4 +1,4 @@
-![Desarrollador en acción](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://media.licdn.com/dms/image/v2/D4E16AQEbrNrGPq5CuQ/profile-displaybackgroundimage-shrink_350_1400/B4EZWaD3auH0AY-/0/1742046460196?e=1748476800&v=beta&t=7zQNsbwi2T14t0JJUWGV05ckdH8xH0ZH5y7UzGLVcJM))
+![Portada](https://media.licdn.com/dms/image/v2/D4E16AQEbrNrGPq5CuQ/profile-displaybackgroundimage-shrink_350_1400/B4EZWaD3auH0AY-/0/1742046460196?e=1748476800&v=beta&t=7zQNsbwi2T14t0JJUWGV05ckdH8xH0ZH5y7UzGLVcJM)
 
 ## ¡Hola!, me llamo Joseph Miranda👋
 
