@@ -40,8 +40,8 @@ Disfruto trabajar en equipo, compartir conocimientos y aportar lo mejor de mí e
 ---
 
 ## 🎓 Estudios
-- [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/joseph-miranda-8/) → Cursos de desarrollo web y software.  
-- [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://es.duolingo.com/profile/Jkatyam52) → Inglés en progreso 🇬🇧.  
+- [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/joseph-miranda-8/)
+- [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://es.duolingo.com/profile/Jkatyam52) 
 
 ---
 
