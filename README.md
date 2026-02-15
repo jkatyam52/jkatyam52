@@ -74,9 +74,6 @@ Disfruto enfrentar desafíos técnicos, diseñar sistemas bien estructurados y m
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jkatyam52&theme=blue-green&hide_border=true"/>
 </p>
 
-![snake gif](https://github.com/jkatyam52/jkatyam52/blob/output/github-contribution-grid-snake.svg)
-
-
 ---
 
 ## 📬 Contacto
