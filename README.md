@@ -76,6 +76,14 @@ Disfruto enfrentar desafíos técnicos, diseñar sistemas bien estructurados y m
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jkatyam52/jkatyam52/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jkatyam52/jkatyam52/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jkatyam52/jkatyam52/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ## 📬 Contacto
 
 <p align="center">
