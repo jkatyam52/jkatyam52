@@ -1,70 +1,59 @@
-## ¡Hola!, soy Joseph Miranda 👋
+# 👋 Hola, soy Joseph Miranda
 
-💻✨ Soy un apasionado desarrollador de software que disfruta resolver problemas y crear soluciones innovadoras.  
-Me encanta enfrentar proyectos desafiantes —ya sea en aplicaciones web o de escritorio— y aprender algo nuevo cada día 🚀.  
-Disfruto trabajar en equipo, compartir conocimientos y aportar lo mejor de mí en cada línea de código 🔥.
+💻 Desarrollador Full Stack con enfoque en Backend y arquitectura de sistemas.  
+Apasionado por la construcción de APIs escalables, optimización de bases de datos y diseño de soluciones robustas.
+
+Actualmente trabajo con tecnologías como **Java (Spring Boot), .NET y React**, desarrollando aplicaciones empresariales bajo buenas prácticas y metodologías ágiles.
 
 ---
 
-## 🚀 Habilidades
+## 🧠 En qué me especializo
 
-### Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- 🔹 Diseño e implementación de APIs REST
+- 🔹 Arquitectura por capas y buenas prácticas (SOLID)
+- 🔹 Optimización de consultas SQL
+- 🔹 Integración de sistemas y servicios externos
+- 🔹 Refactorización y mejora de rendimiento
+- 🔹 Trabajo en equipos Scrum y code reviews
+
+---
+
+## 🚀 Stack Tecnológico
 
 ### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=Delphi&logoColor=white)
-![Visual Basic](https://img.shields.io/badge/visual_basic-512BD4?style=for-the-badge&logo=visualbasic&Color=white)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Bases de datos
-![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-![Interbase](https://img.shields.io/badge/interbase-E62431?style=for-the-badge&logo=Interbase&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Herramientas
-![VisualEstudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![VisualEstudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Dbeaver](https://img.shields.io/badge/dbeaver-382923.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
----
-
-## 🎓 Estudios
-- [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/joseph-miranda-8/)
-- [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://es.duolingo.com/profile/Jkatyam52) 
+### Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
-## 🎮 Hobbies
-- 🎮 Videojuegos  
-- 📺 Series  
-- 🎬 Películas  
+## 📌 Proyectos Destacados
+
+🔹 API REST con Java + Spring Boot  
+🔹 Aplicaciones empresariales con .NET  
+🔹 Integraciones de sistemas con bases de datos relacionales  
+🔹 Aplicaciones web dinámicas con React  
 
 ---
 
-## 📊 Análisis
-Aquí un vistazo a mi actividad en GitHub 👇  
-
+## 📊 GitHub Stats
 ![Analisis1](https://github-readme-stats.vercel.app/api?username=jkatyam52&theme=blue-green)  
 ![Analisis2](https://github-readme-stats.vercel.app/api/top-langs/?username=jkatyam52&theme=blue-green)
 
 ---
 
 ## 📬 Contacto
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jkatyam52)  
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jkatyam52/)  
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/teams/jkatyam52/overview)  
-
----
-
-![Desarrollador en acción](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+[LinkedIn](https://www.linkedin.com/in/jkatyam52/)  
+[GitHub](https://github.com/jkatyam52)
