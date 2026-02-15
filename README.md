@@ -71,9 +71,9 @@ Disfruto enfrentar desafíos técnicos, diseñar sistemas bien estructurados y m
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jkatyam52&show_icons=true&theme=blue-green&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkatyam52&layout=compact&theme=blue-green&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jkatyam52&theme=blue-green&hide_border=true"/>
 </p>
+
 
 ---
 
